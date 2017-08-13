@@ -1,0 +1,6 @@
+name: mruby-wdp-segv
+description: WDPSegV class
+author: pyama86
+website: https://github.com/pyama86/mruby-wdp-segv
+protocol: git
+repository: https://github.com/pyama86/mruby-wdp-segv.git
